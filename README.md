@@ -63,15 +63,23 @@ Noventra is a thesis-scale prototype, not a production SaaS deployment. Stripe i
 
 ## Selected screens
 
-![Product catalogue](assets/FaqjaProduktev.png)
+### Storefront
+<img width="1417" height="1750" alt="Noventra storefront" src="assets/storefront.png" />
 
-![Product detail](assets/FaqjaProduktit.png)
+### Product detail
+<img width="1286" height="1746" alt="Noventra product detail" src="assets/product-detail.png" />
 
-![Shopping cart](assets/Shporta.png)
+### Shopping cart
+<img width="1792" height="1543" alt="Noventra shopping cart" src="assets/cart.png" />
 
-![Order confirmation](assets/KonfirmimiPorosise.png)
+### Checkout
+<img width="1690" height="1396" alt="Noventra checkout" src="assets/checkout.png" />
 
-![Wishlist](assets/ListaEDeshirave.png)
+### Order confirmation
+<img width="3820" height="1830" alt="Noventra order confirmation" src="assets/KonfirmimiPorosise.png" />
+
+### Administrator dashboard
+<img width="2048" height="1011" alt="Noventra administrator dashboard analytics" src="assets/admin-analytics.png" />
 
 ## Copyright
 
